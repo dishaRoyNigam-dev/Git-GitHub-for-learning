@@ -16,6 +16,9 @@ Sabhi staged files ke liye: git restore --staged .
 11)git remote add origin  <url of github repo>
 12) git push -u origin main 
 13) git branch  branch-name   (for create new brnach)
+14) git branch --delete  branch-name
+
+
 
 
                     <--- github repo ko local me kese laye --->
