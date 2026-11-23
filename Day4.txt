@@ -9,10 +9,12 @@ Sabhi staged files ke liye: git restore --staged .
 7)git commitn -m "this is a messges"
 8)git ststus     (sara code local repo ho dal jayega isliye working area khali ho hayega )
 9) git log        (commite kisne kiya ye git log batata hai )
+9.1) git log --oneline        (Find your commit ID)  
 10) git show <commit id>   (kya code likha hai ye dekhne ke liye show command use krte hai  )
+10.1)git checkout a1b2c3d    (Check out that commit)
 11)git remote add origin  <url of github repo>
 12) git push -u origin main 
-
+13) git branch  branch-name   (for create new brnach)
 
 
                     <--- github repo ko local me kese laye --->
