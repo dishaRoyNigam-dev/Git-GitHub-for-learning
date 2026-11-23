@@ -17,7 +17,7 @@ Sabhi staged files ke liye: git restore --staged .
 12) git push -u origin main 
 13) git branch  branch-name   (for create new brnach)
 14) git branch --delete  branch-name
-
+15) git mergre branch-name        jis branch me marge krna h usme jana hoga phle 
 
 
 
