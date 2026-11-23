@@ -10,6 +10,7 @@ Sabhi staged files ke liye: git restore --staged .
 8)git ststus     (sara code local repo ho dal jayega isliye working area khali ho hayega )
 9) git log        (commite kisne kiya ye git log batata hai )
 9.1) git log --oneline        (Find your commit ID)  
+9.2) git log --all (sabhi branch ke commit dekhne ke liye)
 10) git show <commit id>   (kya code likha hai ye dekhne ke liye show command use krte hai  )
 10.1)git checkout a1b2c3d    (Check out that commit)
 11)git remote add origin  <url of github repo>
