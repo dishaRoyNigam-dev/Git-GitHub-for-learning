@@ -4,6 +4,8 @@
 4)folder me files banai hai 
 5)git status check krna hai 
 6)git add . 
+git repo ko staging area se working area me wapice lane kr liye       git restore --staged <file_name>
+Sabhi staged files ke liye: git restore --staged .
 7)git commitn -m "this is a messges"
 8)git ststus     (sara code local repo ho dal jayega isliye working area khali ho hayega )
 9) git log        (commite kisne kiya ye git log batata hai )
