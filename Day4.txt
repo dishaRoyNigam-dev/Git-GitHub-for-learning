@@ -19,6 +19,7 @@
 13) git branch  branch-name   (for create new brnach)
 14) git branch --delete  branch-name
 15) git mergre branch-name        jis branch me marge krna h usme jana hoga phle 
+15.1) git switch -C branch-name     (branch create bhi ho jati h or usme switch bhi ho jata hai iss command se)
 16) git push -u origin branch name   (isse jo branch apne banai hogi wo github par push ho jayegi)
 
 
