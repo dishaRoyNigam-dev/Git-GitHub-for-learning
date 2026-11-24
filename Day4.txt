@@ -15,6 +15,7 @@
 10) git show <commit id>   (kya code likha hai ye dekhne ke liye show command use krte hai  )
 10.1)git checkout a1b2c3d    (Check out that commit)
 11)git remote add origin  <url of github repo>
+11.1)git remote set-url origin URL (age phle hi remote url ste hai or aapko change krna hai to ye command ka use krenge ) 
 12) git push -u origin main 
 13) git branch  branch-name   (for create new brnach)
 14) git branch --delete  branch-name
