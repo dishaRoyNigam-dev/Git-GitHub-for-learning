@@ -7,6 +7,7 @@
 6.1)git repo ko staging area se working area me wapice lane kr liye       git restore --staged <file_name>
 6.2)Sabhi staged files ke liye: git restore --staged .
 7)git commitn -m "this is a messges"
+7.1) git commit -am "remove two paragraphs"             (ye commansd add or commite sath me krti hai)
 8)git ststus     (sara code local repo ho dal jayega isliye working area khali ho hayega )
 9) git log        (commite kisne kiya ye git log batata hai )
 9.1) git log --oneline        (Find your commit ID)  
