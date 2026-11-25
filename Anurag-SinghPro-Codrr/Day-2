@@ -1,0 +1,28 @@
+1) git-v (sabse phle dekhenge ki git install hai ya nhi )
+agr error aaye ho git install ny hai or agr kuch number likh kr aaye uska version to git install hai .
+vs code me bhi sabhi shell rhti hai .
+git bash ko install kr lenge to bash shell use kr skte hai 
+git bash me sari command kam kregi jo phle ny kr rhi thi .
+
+git bash ka use kr ke tine file ek sath create kr skte hai .
+2) touch index.html stly.css script.js 
+
+ek folder se dusre folder me file move krne ke liye 
+3) mv  index.html stly.css script.js  ./folder-name 
+
+ek git repo create krne ke liye 
+sabse phle folder me jana hoga jisko app git repo bnna chahte ho .
+4)git -v     
+5)git init    (Initialized is command ke bad .git krke ek hidden folder bana jata hai  )
+
+iske bad apko terminal par main likha hua dikh raha hoga .
+bydefalt jo branch create hoti hai usse main branch bolte hai .
+
+jese hi .git folder ko delete krte hai git repo ek normal folder ban jata hai .
+
+file ke aage U likha hua aata hai uska mtlab hota hai untrack mtlb git abhi ise track nhi kr rha hai .
+
+6) git add file-name                           (ek file agr add krni ho )
+7) git add .                                   (agr sabhi file add krni ho )
+8) git restore --staged filename.txt           (staging area se working area me ek file ko waps lane ki command )
+9) git restore --staged .                      (staging area se working area me sari file waps lane ke liye )

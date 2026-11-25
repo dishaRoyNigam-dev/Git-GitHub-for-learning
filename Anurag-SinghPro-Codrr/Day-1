@@ -1,0 +1,27 @@
+Git tool use krne ke liye hame command line aana chahiye .
+Q1 Terminal kya hota hai or hum usko kese use krte hai ?
+Ans ek computer ko use krne ke liye uske resources ko acces krne liye 2 tarike hote hai .
+1)command line interface (CLI)
+2)Graphical User Interface (GUI) isme photos/piture dekha kr usko use krte hai 
+jo kam hum GUI se krte hai wo kam hum CLI se bhi kar sakte hai .
+alg alg harh ke shell hote hai 
+cmd , powerShell
+Command Prompt (CMD) is a simple, text-based command-line interpreter derived from MS-DOS,
+ whereas PowerShell is a modern, object-oriented automation and scripting environment built on the .NET framework
+ git bash best hai usme sari command hoti hai or wo linux par based hai .
+ 1)ls   (kisi folder ke ander kitni files hai ye dekhne ke liye ls command ka use krte hai .)
+ 2)cd  (change directory  kisi folder ko change krne ke liye cd command ka use krte hai directory ek folder ko bolte hai )
+ folder ka thoda nam likh kr tap press krte hai to wo auto compelte ho jata hai .
+ alg alg shell me command diffrent ho jata hai .
+ isliye sare server me ek hi shell hoti hai wo linux based hota hai usme sab me ek hi tarh ki command chalti hai git bash.
+ 3) cd.. (folder me ek step piche jane ke liye iska use krte hai )
+ 4) mkdir (new folder create krne ke liye )
+ jo hum GUI se kr skte hai wo CLI se bhi kr skte hai infect usse jyda chize kr skte hai CLI me hume or bhi jyda acees milti hai or bhi jyda power milti hai  .
+ 5) pwershell me touch command work ny krti hain . bash me ye command work krti hai .
+ 6) rm folder-name (rm ka mtlab remove hota hai isse folder delete ho jata hai ) parmanent delet hota hai recycal bin me ny aata hai .
+ GUI se agr detele hoti to recycal bin me aa jati .
+ 7) code . (kisi folder ko vs code me open krne ke liye code . command use krte hai . agr kisi bhi folder ke nam me space ho to hume '' iske ander likhna hota hai.) 
+ 8) pwd (print working directory isse tum jis bhi directory me ho uska path print kr deta hai )
+ kuch tool ese hote hi jisme sirf apko terminal mil jata hai uska hi use kr ke sari chize perform krni hoti hai .
+ example node.js
+ 9) mv folder-old-name folder-new-name (mv command sse folder ko rename bhi kiya ja skta hai)
