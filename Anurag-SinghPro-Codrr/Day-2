@@ -13,7 +13,12 @@ ek folder se dusre folder me file move krne ke liye
 ek git repo create krne ke liye 
 sabse phle folder me jana hoga jisko app git repo bnna chahte ho .
 4)git -v     
-5)git init    (Initialized is command ke bad .git krke ek hidden folder bana jata hai  )
+     git ko configure krte hai by email or user name .
+                1)git confi --global user.name "Disha Nigam"   (command)
+                2)git config --global user.email "nigamdisha@gmail.com"   (command)
+                3)git config --list (command)
+
+5)git init                                      (Initialized is command ke bad .git krke ek hidden folder bana jata hai  )
 
 iske bad apko terminal par main likha hua dikh raha hoga .
 bydefalt jo branch create hoti hai usse main branch bolte hai .
@@ -26,3 +31,11 @@ file ke aage U likha hua aata hai uska mtlab hota hai untrack mtlb git abhi ise 
 7) git add .                                   (agr sabhi file add krni ho )
 8) git restore --staged filename.txt           (staging area se working area me ek file ko waps lane ki command )
 9) git restore --staged .                      (staging area se working area me sari file waps lane ke liye )
+10) git status -s                              (ye command short me batati hai )
+11) git commit -m "message"                    (iss commans se apn git ko bolte hai ki iss code ka snapshot leke apne pass rkh lo
+                                                jab bhi mujhe jarurat padegi me waps mangu ga iss code ko commit message ko hamesha 
+                                                presant tense me likhna chahiye badi badi compny present tense ka use krti hai  )
+12) git log                                    (commit dekhne ke liye ya kisne commit kiya h ye pata lagane ke liye  git log command ka use krte hai )
+13) git checkout commit-id                      (purane code  me waps jane ke liye )
+14) git checkout main                           (dobara current code me jane ke liye is comand ka use krte hai )
+kissi file ki history vs code me timeline opetion se bhi dekh skte hai . bina git history ke bhi local history se code waps la skte hai.
