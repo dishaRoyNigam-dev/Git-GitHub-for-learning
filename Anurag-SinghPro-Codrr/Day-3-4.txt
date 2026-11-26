@@ -2,10 +2,11 @@ Day-3
 vs code extention GitLens dowload kre
 
 Day-4
-git branch             (isse pata chalta hai ki aap konsi branch me ho or kitni branch hai code me   )
-git branch branch-name    (new branch create krne ke liye )
-git checkout branch-name   (kisi or branch me jane ke liyen)
-1)git log              (isse jis branch me rhte hai usi ke commit dekhte hai )
-2)git log --all         (isse sabhi branch git commit dikhte hai )
-3)git log --all --oneline  (sare commit oneline )
-4)git checkout commit-id      (isse use commit me chale jate hai )
+1)git branch             (isse pata chalta hai ki aap konsi branch me ho or kitni branch hai code me   )
+2)git branch branch-name    (new branch create krne ke liye )
+3)git checkout branch-name   (kisi or branch me jane ke liyen)
+4)git log              (isse jis branch me rhte hai usi ke commit dekhte hai )
+5)git log --all         (isse sabhi branch git commit dikhte hai )
+6)git log --all --oneline  (sare commit oneline )
+7)git checkout commit-id      (isse use commit me chale jate hai )
+8)git log --all --oneline --graph 
