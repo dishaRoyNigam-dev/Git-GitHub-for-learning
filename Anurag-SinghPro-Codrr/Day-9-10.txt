@@ -9,3 +9,14 @@ ek bar koi file git track krne lg gya to fir git ignore me dalte par bhi track k
 1)git rm --cached file-name
 jab kisi folder ko ignore krna ho 
 2) git rm --cached -r bin/
+
+3)git commit -am "Message"          (add or commit ek sath krne ke liye )
+age koi file glti se delet ho gai or apne commit kr diya usko waps la skte hai
+4)git checkout commit-id file-name    (commit id wo dalna jb wo file thi or jo delete ho gai wo file name )
+
+git config --global -e (globalsetting ko change kr skte hai )
+git switch branch name 
+git switch -C branch-name  (branch create bhi ho jayegi or switch bhi )
+
+merge commit ko revert krne ki command 
+git revert commit-id -m 1(isme batana hota hai ki app kis branch me jana chahite ho)
