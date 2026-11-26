@@ -10,3 +10,7 @@ Day-4
 6)git log --all --oneline  (sare commit oneline )
 7)git checkout commit-id      (isse use commit me chale jate hai )
 8)git log --all --oneline --graph 
+kisi branch ko delete krne ke liye phle dusri baranch me jana hoga 
+9) git branch --delete branch-name 
+jis branch se apko branch create phle usme checkout krna pdta hai usme jana pdta hai 
+10)git merge branch-name (jis branch me merge krna hai uske andar jana hoga )
