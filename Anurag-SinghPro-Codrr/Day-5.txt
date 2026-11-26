@@ -1,0 +1,11 @@
+hum agr code local par rkhenge to .git folder delete hone par sari history delete ho jayegi isliye gitHub par push krte hai .
+repo online rkhne ke liye bahut sare platform hote hai Bitbucket ,GitLab,gitHub
+Hum gitHub ka use krenge .
+1)  git remote show origin             (iss command se pata chalta hai ki apka folder online repo se connected hai ya ny )
+2)  git remote add origin <URL>        (jis remote origin repo se connect krna hai uska URL likhna hota hai )
+
+github par by default main name se branch rhti hai or local git par master agr master name se h to phle ye command run krna chahiye 
+3) git branch -M main                  (ye hamari master branch ko rename kar ke main kr deti hai )
+4)git push --set-upstream origin main   (is ki shor command 5th wali hai )
+5) git push -u origin main
+local me branch create kr ke gitHub me push krte hai .
