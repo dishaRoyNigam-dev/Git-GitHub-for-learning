@@ -1,0 +1,7 @@
+Day-3 
+GitLens ek VS code extention hai use dowload kre
+
+Day-4
+1) git branch                (ye command batati hai ki kitni beanch hai)
+2) git branch  branch-name    (new branch create krne ki coammnd hai )
+3) git checkout branch-name   (branch change krne ki command )
