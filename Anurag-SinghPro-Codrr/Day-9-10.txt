@@ -1,0 +1,11 @@
+cherry Picking jb hum kisi branch apni branch me merge krnte hai to jb hun pura nhi merge nhi krna chahte uske kuch part ko hi merge krte hai usko cherry piking khte hai 
+1)  git cherry-pick commit-d (iss comand se only ek hi changes aayega )
+
+
+day-10
+.env file me databse ke credentionl rkhte hai 
+.gitignore file me jo bhi file ka name likhete hai use git track nhi krta hai .
+ek bar koi file git track krne lg gya to fir git ignore me dalte par bhi track krta hai usko hatne ke liye iss command ka use krte hai 
+1)git rm --cached file-name
+jab kisi folder ko ignore krna ho 
+2) git rm --cached -r bin/

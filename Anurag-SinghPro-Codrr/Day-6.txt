@@ -1,0 +1,19 @@
+jab hum glti se koi commit kr dete hai to usko waps kese hataye 
+1) git reset commit-id      ()
+2) git reset --hard commit-id (sabhi jagh se hat jata ahai )
+3) git reset --soft commit-id    (changes staging area me aa jata hai )
+4) git reset --mixed commit-id   (changes working area me aata hai )
+
+jab hum glti se reset kr de to usko waps phle jesa kese bnaye 
+5) git reflog   (jo bhi commit remove kiye the usko id dikh jayegi )
+6) git  reset commit-id (wo commit id dalni hai wo remove/reset kr di thi reflog se pata chal jayegi )
+head current working directory ko poin krta hai .
+7)git checkout head~1   (isse head piche wale commit ko pin krega hamara project wasa ho chuka hai jesa iss perticular if par tha)
+8)git reset --hard HEAD~3
+
+agr humne code GitHub par push kr diya hai to git reset nhi krna hai revert krna hai 
+9) git revert commit-id  (revert krne par ek new commit create hoti h ye sare changes remove kr deta hai purana commit delete ny hota h ek new commit create hota h uske ander jo bhi purane changes the wo remove ho jate h purana commit wai ka wahi rhta h  )
+10) git revert head 
+11)git revert head~3..head    (thino ko ek sath revert krna ho to ye use krte hai)
+12)git revert --no-commit head~3..
+13) git revert --abort (kuch bhi revert nhi hoga sab jesa tha vesa ho jayega )
