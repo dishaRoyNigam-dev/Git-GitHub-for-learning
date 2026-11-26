@@ -9,3 +9,9 @@ github par by default main name se branch rhti hai or local git par master agr m
 4)git push --set-upstream origin main   (is ki shor command 5th wali hai )
 5) git push -u origin main
 local me branch create kr ke gitHub me push krte hai .
+clt+ shift + p   krke search krna graph to graph show hoga 
+jb ek hi project par ek se jyda log kam kr rhe hote hai to unka code local par lane ke liye git pull krte hai 
+6)git fetch               (iss command se sirf changes local par aate hai merge ny hote hai )
+7)git merge orign main     (isse changes merge hote hai )
+8) git merge origin/main
+9) git pull               (isee local par changes aate bhi hai or merge bhi hote hai )
